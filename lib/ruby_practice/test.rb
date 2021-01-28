@@ -7,4 +7,4 @@ def print_name(a)
     binding.pry
 end
 
-print_name("McCray")
+print_name("McCray Austin")
